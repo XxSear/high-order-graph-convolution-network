@@ -4,9 +4,9 @@
 
 
 ## Installation
-'''
+```
   python main.py
-'''
+```
 ## Requirements
 * pytorch
 * torch-scatter
