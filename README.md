@@ -5,8 +5,9 @@
 
 ## Installation
 ```
-  python main.py
+  python hgcn_model_test.py
 ```
 ## Requirements
 * pytorch
 * torch-scatter
+* networkx
